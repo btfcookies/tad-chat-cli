@@ -1,0 +1,13 @@
+{
+  "name": "tad-chat-cli",
+  "version": "1.0.0",
+  "description": "Terminal client for tad chat",
+  "license": "ISC",
+  "type": "commonjs",
+  "bin": {
+    "tad": "cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  }
+}
